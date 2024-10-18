@@ -1,0 +1,11 @@
+/* Hacer que el cuerpo ocupe toda la altura de la ventana */
+html,
+body {
+    height: 100%;
+}
+
+
+/* El footer se mantiene al fondo */
+footer {
+    flex-shrink: 0;
+}
